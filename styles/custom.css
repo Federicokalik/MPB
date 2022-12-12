@@ -1,0 +1,455 @@
+/* carousel dot design */
+.rec-dot{
+    background-color: #ebe0e0!important;
+    width: 15px!important;
+    height: 15px!important;
+    border: none!important;
+    outline: none!important;
+    box-shadow: none!important;
+}
+.rec-dot_active{
+    background-color: #ff7342!important;
+    border: none!important;
+    outline: none!important;
+    box-shadow: none!important;
+}
+
+
+.slick-list {margin: 0 -10px;}
+.slick-slide>div {padding: 0 10px;}
+
+.testimonial-img-slide-wrap .slick-list{
+    margin: 0px!important;
+}
+.testimonial-img-slide-wrap .slick-slide>div{
+    padding: 0px!important;
+}
+
+/* populer job slider */
+.popular-job-slide .slick-dots{
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    transform: rotate(180deg);
+}
+.popular-job-slide .slick-dots li{
+    width: 20px;
+    height: 20px;
+    border: none;
+    outline: none;
+    border-radius: 20px!important;
+    background-color: #e0e0e0;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.popular-job-slide .slick-dots li button{
+    width: 20px;
+    height: 20px;
+    color: #e0e0e0!important;
+    background-color: transparent!important;
+    border: none;
+    outline: none;
+}
+.popular-job-slide .slick-dots li.slick-active{
+    border: 1px solid #f48345!important;
+    background-color: transparent;
+    position: relative;
+}
+.popular-job-slide .slick-dots li.slick-active button{
+    color: transparent!important;
+}
+.popular-job-slide .slick-dots li.slick-active::after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 8px;
+    height: 8px;
+    background-color: #f48345!important;
+    border-radius: 50%;
+}
+
+/* react slick dots */
+.slick-dots{
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    transform: rotate(180deg);
+}
+.slick-dots li{
+    width: 15px;
+    height: 15px;
+    border: none;
+    outline: none;
+    border-radius: 20px!important;
+    background-color: #e0e0e0;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.slick-dots li button{
+    width: 15px;
+    height: 15px;
+    color: #e0e0e0!important;
+    background-color: transparent!important;
+    border: none;
+    outline: none;
+}
+.slick-dots li.slick-active{
+    background-color: #f48345;
+}
+.slick-dots li.slick-active button{
+    color: transparent!important;
+}
+.back-to-top-btn{
+    cursor: pointer;
+}
+
+/* travel slider box */
+.single-destination-slide-box{
+    border-radius: 0px!important;
+    overflow: visible!important;
+}
+.Travel_destination_slider{
+    overflow: visible!important;
+}
+
+.single-destination-slide-box{
+    transform: 0.5s ease-in-out;
+    margin-top: 20px;
+}
+.slick-current .single-destination-slide-box{
+    margin-top: 0px;
+    transition: 0.5s ease-in-out;
+}
+
+
+/*  react slick duel slider navigator */
+.testimonial-content-slide-wrap .slick-next{
+    position: absolute;
+    top: 105%;
+    right: 0px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    color: transparent;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: transparent;
+}
+.testimonial-content-slide-wrap .slick-prev{
+    position: absolute;
+    top: 105%;
+    right: 70px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    color: transparent;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: transparent;
+}
+.testimonial-content-slide-wrap .slick-prev:hover{
+    border: 1px solid rgba(0,0,0,0.5);
+    transition: 0.2s ease-in-out;
+}
+.testimonial-content-slide-wrap .slick-next:hover{
+    border: 1px solid rgba(0,0,0,0.5);
+    transition: 0.2s ease-in-out;
+}
+.testimonial-content-slide-wrap .slick-prev::after{
+    content: '<';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 40px;
+}
+.testimonial-content-slide-wrap .slick-next::after{
+    content: '>';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 40px;
+}
+
+.edu-testimonial-silder .slick-next{
+    position: absolute;
+    top: 120%;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    color: transparent;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: transparent;
+}
+.edu-testimonial-silder .slick-prev{
+    position: absolute;
+    top: 120%;
+    right: 80px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    color: transparent;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: transparent;
+}
+.edu-testimonial-silder .slick-prev:hover{
+    border: 1px solid rgba(0,0,0,0.5);
+    transition: 0.2s ease-in-out;
+}
+.edu-testimonial-silder .slick-next:hover{
+    border: 1px solid rgba(0,0,0,0.5);
+    transition: 0.2s ease-in-out;
+}
+.edu-testimonial-silder .slick-prev::after{
+    content: '<';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 40px;
+}
+.edu-testimonial-silder .slick-next::after{
+    content: '>';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    font-size: 40px;
+}
+
+/* testimonial image slider navigator design */
+.testimonial-img-slide-wrap .slick-next{
+   position: absolute;
+   top: 103%;
+   right: -50px;
+   width: 35px;
+   height: 35px;
+   border: none;
+   outline: none;
+   border-radius: 50%;
+   color: transparent;
+   background-color: #f47547;
+   transition: 0.2s ease-in-out;
+}
+.testimonial-img-slide-wrap .slick-next:hover{
+    background-color: #a05025;
+    transition: 0.2s ease-in-out;
+}
+.testimonial-img-slide-wrap .slick-next::after{
+   content: ">";
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
+   font-size: 22px;
+}
+
+/* testimonial image slider navigator design */
+.testimonial-img-slide-wrap .slick-prev{
+    position: absolute;
+    top: 103%;
+    right: 0px;
+    width: 35px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+    color: transparent;
+    background-color: #f47547;
+    transition: 0.2s ease-in-out;
+ }
+.testimonial-img-slide-wrap .slick-prev:hover{
+    background-color: #ce6025;
+    transition: 0.2s ease-in-out;
+}
+ .testimonial-img-slide-wrap .slick-prev::after{
+    content: "<";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 22px;
+ }
+
+ /* destrination slider wraper */
+.tds_nav{
+    padding: 10px 0px;
+    text-align: center;
+}
+.tds_nav button{
+    border: none;
+    outline: none;
+    padding: 7px 10px;
+    background-color: transparent;
+    font-size: 30px;
+    color: #feaa99;
+    transition: 0.2s ease-in-out;
+}
+.tds_nav button:hover{
+    color: #f36141;
+    transition: 0.2s ease-in-out;
+}
+
+/* home testimonial slider nav design */
+.tcsb_nav{
+    padding: 25px 0px;
+}
+.tcsb_nav button{
+    border: none;
+    outline: none;
+    font-size: 35px;
+    background-color: transparent;
+    margin-right: 10px;
+    font-weight: bold;
+    color: #183b56;
+    transition: 0.2s ease-in-out;
+}
+.tcsb_nav button:hover{
+    color: #ff7342;
+    transition: 0.2s ease-in-out;
+}
+.testimonial-img-slide-wrap{
+    position: relative;
+}
+.testimonial-img-slide-wrap > i{
+    position: absolute;
+    top: 88%;
+    left: 22%;
+    transform: translate(-50%,-50%);
+    font-size: 100px;
+    color: #3b3b3b;
+}
+
+/* custom select */
+.custom_select_wraper{
+    padding: 7px 0px;
+    position: relative;
+    width: auto;
+    min-width: 130px;
+}
+.custom_select_wraper > h6{
+    color: #221314;
+    font-family: "DM Sans",sans-serif;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+}
+.custom_select_wraper .csw_box{
+    position: absolute;
+    top: 105%;
+    left: 0;
+    border: 1px solid rgba(0,0,0,0.1);
+    width: 150px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    z-index: 100;
+}
+.csw_box_item{
+    padding: 7px 15px;
+    font-size: 16px;
+    font-family: "DM Sans",sans-serif;
+    color: #221314;
+    cursor: pointer;
+    transform: 0.2s ease-in-out;
+}
+.csw_box_item:hover{
+    background-color: #f6f6f6;
+    transform: 0.2s ease-in-out;
+}
+.csw_box_item.active{
+    background-color: #f6f6f6;
+    font-weight: bold;
+    font-weight: 500;
+}
+.csw_box:hover .csw_box_item.active{
+    background-color: #ffffff;
+}
+
+/* custom date picker */
+
+.custom_date_picker{
+    position: relative;
+}
+.custom_date_calender{
+    position: absolute;
+    top: 120%;
+    left: 0;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.1);
+}
+.custom_date_display{
+    padding: 3px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom_date_display span{
+    font-size: 16px;
+    font-weight: bold;
+    color: #221314;
+}
+.custom_date_display .cl_toggle{
+    margin-left: 10px;
+    padding: 3px 5px;
+    border: 1px solid rgba(0,0,0,0.1);
+    color: #221314;
+}
+.custom_date_display > .cl_toggle:hover{
+    border: 1px solid rgba(0,0,0,0.5);
+    cursor: pointer;
+    color: #221314;
+}
+.custom_date_display > div span{
+    display: flex;
+}
+
+/* end custom date picker */

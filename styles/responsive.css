@@ -1,0 +1,1138 @@
+@media only screen and (min-width: 1400px) and (max-width: 1570px){
+
+    .hrrd-hero-img-wrap{
+        margin-right: 0;
+    }
+
+    .destination-right-wrap {
+        padding-right: 70px;
+    }
+
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+
+    .hero-content h1 {
+        font-size: 72px;
+    }
+
+    .hrrd-hero-img-wrap{
+        margin-right: 0;
+    }
+
+    .single-popular-job-item .popular-job-content h3 {
+        font-size: 18px;
+    }
+
+    .single-popular-job-item .popular-job-content ul li {
+        display: inline-block;
+        margin-right: 22px;
+    }
+
+    .single-widget .contact-info ul li {
+        font-size: 12px;
+    }
+
+    .hrrd-menu .main-nav {
+        float: unset;
+        justify-content: center;
+    }
+
+    .hrrd-hero-content h1 {
+        font-size: 59px;
+    }
+
+    .hrrd-hero-img-wrap .hrrd-hero-post{
+        left: 0;
+        top: 0;
+    }
+
+
+    .destination-right-wrap .trip-section-title h1 {
+        font-size: 38px;
+        line-height: 52px;
+    }
+    .destination-content p {
+        margin: 10px 0 17px;
+    }
+
+    .destination-right-wrap {
+        padding-right: 71px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content h3 {
+        font-size: 16px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content p {
+        font-size: 13px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 {
+        font-size: 16px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 i {
+        font-size: 12px;
+    }
+
+    .trip-map-shape {
+        width: 58%;
+    }
+
+    .exceptionally-wrap {
+        margin-top: 50px;
+    }
+
+    .blog-post-wrap h1 a{
+        font-size: 25px;
+    }
+
+    .blog-post-wrap h1 {
+        line-height: 32px;
+    }
+
+    .blog-post-wrap p {
+        margin-bottom: 18px;
+    }
+  
+}
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+    .menu-btn-wrap .menu-reg {
+        margin-right: 18px;
+    }
+
+    .hero-content h1 {
+        font-size: 56px;
+        line-height: 85px;
+    }
+
+    .hrrd-hero-img-wrap{
+        margin-right: 0;
+    }
+
+    .hrrd-hero-img-wrap .hrrd-hero-post{
+        left: 0;
+        top: 0;
+    }
+
+    .title-mark::before {
+        height: 36px;
+    }
+
+    .platform-work-wrap .platform-work-box .platform-content p {
+        padding-right: 0px;
+    }
+
+
+    .single-popular-job-item .popular-job-content h3 {
+        font-size: 21px;
+    }
+
+    .single-popular-job-item .popular-job-content ul li {
+        display: inline-block;
+        margin-right: 22px;
+    }
+
+    .testimonial-content-slide-box h2 {
+        font-size: 23px;
+    }
+
+    .common-btn {
+        padding: 15px 38px;
+    }
+
+    .subscribe-wrap {
+        padding: 110px 20px;
+    }
+
+    .subscribe-title {
+        padding-right: 0;
+    }
+
+    .hrrd-menu .menu-btn-wrap a {
+        margin-right: 10px;
+        font-size: 14px;
+        padding: 15px 20px;
+    }
+
+    .hrrd-hero-content h1 {
+        font-size: 49px;
+        line-height: 70px;
+    }
+
+    .hrrd-hero {
+        padding: 168px 0 105px;
+    }
+
+    .everything-img-wrap {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .collaborate-img-wrap {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+
+    .destination-right-wrap .trip-section-title h1 {
+        font-size: 38px;
+        line-height: 52px;
+    }
+    .destination-content p {
+        margin: 10px 0 17px;
+    }
+
+    .destination-right-wrap {
+        padding-right: 71px;
+    }
+
+    .destination-slide-wrap .tst {
+        left: 50%;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content h3 {
+        font-size: 16px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content p {
+        font-size: 13px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 {
+        font-size: 16px;
+    }
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 i {
+        font-size: 12px;
+    }
+
+    .trip-map-shape {
+        display: none;
+    }
+
+    .exceptionally-wrap {
+        margin-top: 50px;
+    }
+
+    .cart-wrap .single-cart .cart-post .cart-post-content h4 a{
+        font-size: 13px;
+    }
+
+    .cart-wrap .single-cart .cart-post .cart-post-content h4{
+        line-height: 14px;
+    }
+
+    .cart-wrap .single-cart .cart-post .cart-post-content p {
+        font-size: 11px;
+        margin-top: 2px;
+    }
+
+
+
+}
+
+/* Medium Layout: 1280px. end */
+
+
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+
+
+
+}
+/* Tablet Layout: 768px. end */
+
+
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+
+.mobile-mt-50 {
+  margin-top: 50px;
+}
+
+.mobile-mt-24 {
+  margin-top: 24px;
+}
+
+
+.client-logo-box {
+    text-align: center;
+}
+
+.single-widget .contact-info ul li {
+    font-size: 12px;
+}
+
+.engagement-cart{
+    width: 180px;
+    height: 171px;
+  }
+
+  .hrrd-hero {
+    padding: 130px 0 80px;
+}
+
+
+
+}
+
+
+/* Mobile Layout: 320px. end */
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+
+
+}
+/* Wide Mobile Layout: 480px. end */
+
+
+
+
+
+
+/* Tablet & Mobile Layout: 768px. */
+@media only screen and (max-width: 991px) {
+
+.mobt-50 {
+  margin-top: 50px;
+}
+
+.mobt-24 {
+  margin-top: 24px;
+}
+
+.header-menu-area {
+    padding: 27px 0;
+}
+
+.mobile-ham-logo {
+    margin-left: 8px;
+    display: unset;
+    align-items: unset;
+    height: unset;
+    text-align: center;
+}
+
+.main-nav > ul > li > a.active {
+    color: #EB620F;
+}
+
+.main-nav, .menu-btn-wrap {
+  display: unset;
+  align-items: unset;
+  height: unset;
+}
+
+.menu-btn {
+    margin-left: 16px;
+    background: linear-gradient(180deg, #EB620F 0%, #FF4C6C 100%);
+}
+
+
+.menu-btn i {
+    left: -5px;
+    top: 0;
+    padding: 14.2px;
+  }
+
+
+  .menu-btn-wrap .menu-reg {
+    margin-right: unset;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+
+
+.sticky {
+    padding: 27px 0;
+}
+
+.sticky .hamburger {
+    margin-top: 0 !important;
+}
+
+.sticky .logo {
+    margin-top: 1px;
+}
+
+.hero-content h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.title-mark::before {
+    height: 10.29px;
+}
+
+
+.hero-content .hero-search-form {
+    padding-left: 10px;
+}
+
+.hero-content .hero-search-form .search-box input {
+    width: 33%;
+}
+
+.hero-content .recent-search ul li a {
+    font-size: 12px;
+}
+
+.hero-content .recent-search ul li:first-child {
+    margin-right: 10px;
+}
+
+.hero-content {
+    margin-bottom: 30px;
+}
+
+.platform-work-wrap .platform-work-box .platform-content p {
+    padding-right: 0px;
+}
+
+
+.single-popular-job-item .popular-job-content h3 {
+    font-size: 18px;
+}
+
+.single-popular-job-item .popular-job-content ul li {
+    display: inline-block;
+    margin-right: 22px;
+}
+
+.around-world-area {
+    padding-top: 60px;
+}
+
+.subscribe-wrap {
+    padding: 110px 20px;
+}
+
+.subscribe-title {
+    padding-right: 0;
+}
+
+
+.hrrd-menu .main-nav > ul > li > a.active {
+    border-bottom: unset;
+}
+
+.hrrd-menu .main-nav > ul > li:hover > a {
+    border-bottom: unset;
+    color: unset;
+}
+
+.hrrd-menu .main-nav > ul > li > a, .agency-menu .main-nav > ul > li > a, .eu-menu .main-nav > ul > li > a{
+    line-height: 40px;
+}
+
+.trip-menu .main-nav > ul > li > a::before, .eu-menu .main-nav > ul > li > a::before{
+    display: none;
+}
+
+.trip-menu .main-nav > ul > li > a{
+    line-height: 40px;
+    color: #221314;
+}
+
+
+.hrrd-hero-content h1 {
+    font-size: 39px;
+    line-height: 60px;
+}
+
+.hrrd-hero {
+    padding: 130px 0 105px;
+}
+
+.hrrd-hero-content .hrrd-hero-client-logo ul{
+    flex-wrap: wrap;
+}
+
+.hrrd-hero-content .hrrd-hero-client-logo ul li {
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+
+
+.hrdd-section-title h1 {
+    font-size: 32px;
+    line-height: 54px;
+}
+
+.trip-section-title h1 {
+    font-size: 40px;
+    line-height: 58px;
+}
+
+.hrrd-hero-content .hrrd-hero-btn-wrap {
+    margin: 27px 0 41px;
+}
+
+.hrrd-hero {
+    padding: 130px 0 100px;
+}
+
+.everything-area.mt-100 {
+    margin-top: 0;
+}
+
+.income-cart, .like-cart, .time-cart{
+    animation: unset;
+    position: relative;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.everything-img-wrap > img{
+    position: absolute;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.like-cart .like-cart-box .like-cart-content {
+    padding-left: 20px;
+}
+
+.like-cart .like-cart-box .like-cart-content h6 {
+    font-size: 20px;
+}
+
+.everything-img-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.everything-info ul li {
+    font-size: 17px;
+}
+
+.tri-package-card.tri-package-featured {
+    margin-bottom: 0px;
+}
+
+.time-cart .time-cart-btn-wrap .time-cart-btn {
+    font-size: 12px;
+}
+
+.time-cart .time-cart-btn-wrap {
+    justify-content: space-between;
+}
+
+.engagement-cart{
+    animation: unset;
+    top: 0;
+}
+
+.testimonial-cart {
+    padding: 10px;
+    animation: unset;
+}
+
+.testimonial-cart .testimonial-cart-people h6 {
+    margin-bottom: 6px;
+}
+
+.testimonial-cart i {
+    top: 0;
+}
+
+.testimonial-cart p {
+    font-size: 14px;
+}
+
+.price-content-box {
+    padding: 30px;
+    border: 1px solid #EDEDED;
+}
+
+.price-content-box.design-2{
+    border: none;
+}
+
+.testimonial-content-slide-wrap .tst{
+    bottom: unset;
+    top: 100%;
+}
+
+.apps-area .hrrd-app-shape, .pricing-shape{
+    display: none;
+}
+
+.container-text{
+    font-size: 70px;
+}
+
+
+  .destination-right-wrap {
+    padding-right: 0px;
+}
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content h3 {
+    font-size: 16px;
+}
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-content p {
+    font-size: 13px;
+}
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 {
+    font-size: 16px;
+}
+
+    .single-destination-slide-box .destination-slide-info .destination-slide-rating h3 i {
+    font-size: 12px;
+}
+
+.tri-footer-style {
+    padding-top: 100px;
+}
+
+
+.breadcrumb-area .breadcrumb-text h1 {
+    font-size: 50px;
+}
+
+.breadcrumb-area {
+    padding-top: 150px;
+}
+
+.exceptionally-wrap img {
+    display: none;
+}
+
+.exceptionally-wrap .exceptionally-content {
+    padding-left: 0;
+}
+
+.work-link ul li {
+    font-size: 15px;
+    margin-right: 28px;
+    margin-bottom: 10px;
+}
+
+
+.contact-input h1 {
+    font-size: 36px;
+}
+
+.blog-post-details h1 a, .blog-post-wrap h1 a {
+    font-size: 25px;
+    line-height: 41px;
+}
+
+.blog-details-wrap .details-post-content h1 {
+    font-size: 24px;
+}
+
+
+/* mobile menu */
+
+.header-menu-area.header-menu-area-design-2 .main-nav > ul > li > a {
+    color: #fff;
+}
+
+.header-menu-area-design-2 .hamburger span{
+    background: #000;
+}
+
+     .hamburger{
+        display:block;
+        float: right;
+    }
+
+    .main-nav > ul > li > a.active {
+          color:#fff ;
+    }
+
+    .main-nav > ul > li:hover > a {
+          color:#fff ;
+    }
+
+    .main-nav {
+        position: fixed;
+        top: -4px;
+        left: 0;
+        width: 250px;
+        padding: 40px 10px;
+        z-index: 99999;
+        height: 100%;
+        overflow: auto;
+        background: #7BC678;
+        border-right: 1px solid #dddddd4f;
+        -webkit-overflow-scrolling: touch;
+        -webkit-transform: translateX(-250px);
+        -moz-transform: translateX(-250px);
+        -ms-transform: translateX(-250px);
+        -o-transform: translateX(-250px);
+        transform: translateX(-250px);
+        -webkit-transition: -webkit-transform .3s ease-in;
+        -moz-transition: -moz-transform .3s ease-in;
+        -o-transition: -o-transform .3s ease-in;
+        transition: transform 0.3s ease-in
+    }
+    .main-nav.slidenav {
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0)
+    }
+    .main-nav>ul {
+        float: none;
+        padding: 25px 10px;
+    }
+    .main-nav > ul > li.has-child-menu:after{
+        content: none;
+    }
+    .main-nav>ul>li>a:after{
+        content:none;
+    }
+
+    .main-nav>ul>li {
+        display: block;
+        padding: 0 !important;
+        margin-left: 0
+    }
+    .main-nav>ul>li>a {
+        font-size: 16px;
+        color: #fff;
+        line-height: 35px;
+        margin: 10px 0;
+    }
+    .main-nav ul li .fl {
+        display: block;
+        line-height: 35px
+    }
+    .main-nav ul li .sub-menu {
+        position: static;
+        min-width: 200px;
+        background: transparent;
+        border: none;
+        padding: 5px 0px 5px 20px;
+        opacity: 1;
+        visibility: visible;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+        transform: none;
+        -webkit-transition: none;
+        -moz-transition: none;
+        -o-transition: none;
+        transition: none;
+        display: none
+    }
+    .main-nav ul li .sub-menu>li a {
+        display: block;
+        padding: 10px 0;
+        color: #ffffffb5;
+        line-height: 0.8;
+        font-size: 14px;
+        text-decoration: none;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        -o-transition: all .3s;
+        transition: all 0.3s
+    }
+    .main-nav ul li .sub-menu>li a:hover {
+        background: transparent;
+        color: #fff;
+    }
+    .slideInUp {
+        visibility: visible;
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        -o-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        -webkit-transition: none;
+        -moz-transition: none;
+        -o-transition: none;
+        transition: none
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1400px)
+{
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1420px;
+}
+}
+
+
+
+
+
+
+/*added another responsive */
+
+@media (min-width: 1400px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1420px;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .ag-hero-style .ag-hero-figure{
+        transform: translateX(0);
+    }
+    .ag-testimonial-card {
+        padding: 130px 0;
+    }
+    .ag-hero-style .ag-hero-content {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .ag-hero-style .ag-hero-content .ag-hero-title {
+        font-size: 70px;
+        line-height: 80px;
+    }
+    .edu-hero-style .ag-hero-figure{
+        transform: translateX(0);
+    }
+    .edu-hero-style .edu-hero-content .edu-hero-title {
+        font-weight: 700;
+        font-size: 65px;
+        line-height: 85px;
+        color: #111116;
+        font-family: "Poppins", sans-serif;
+        padding-bottom: 25px;
+    }
+    .ag-working-process .ag-process-features-image .client-group{
+        right: 0;
+    }
+
+      
+}
+@media only screen and (max-width: 1200px) {
+    .ag-hero-style .ag-hero-content .ag-hero-title{
+        font-size: 60px;
+        line-height: 75px;
+    }
+
+    .ag-testimonial-card {
+        padding: 50px 0;
+    }
+    .ag-hero-style .ag-hero-content {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .ag-working-process{
+        padding-top: 115px;
+    }
+    .process-row-gap{
+        margin-top: 100px;
+    }
+    .tri-hero-content .tri-hero-title {
+        font-size: 80px;
+        line-height: 90px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 991px) {
+    .ag-testimonial-card{
+        padding: 0 0;
+    }
+    .ag-hero-style .ag-hero-content {
+        padding-top: 50px;
+    }
+    .ag-hero-style .ag-hero-content .ag-hero-title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .ag-hero-style .ag-hero-figure {
+        margin-top: 40px;
+    }
+    .ag-section-title {
+        line-height: 50px;
+        font-size: 40px;
+    }
+    .ag-client-logo-row{
+        flex-wrap: wrap;
+        justify-content : center !important;
+    }
+    .edu-client-logo-row{
+        flex-wrap: wrap;
+        justify-content : center !important;
+    }
+    .edu-register-style{
+        background: #2A2A31;
+    }
+    .edu-register-style .register-section-title{
+        padding-bottom: 0;
+    }
+    .tri-hero-style .tri-hero-figure-trans{
+        transform: translateX(0);
+    }
+    .tri-explore-bar-row {
+        padding: 28px 35px;
+    }
+    .tri-maulti-searchbar .filter-single::before{
+        right: 0;
+    }
+    .tri-maulti-searchbar .tri-btn-fill{
+        padding: 18px 40px;
+    }
+    
+}
+@media only screen and (max-width: 767px) {
+    .edu-testimonial-carusol-wrap {
+        padding-bottom: 0;
+    }
+    .edu-testimonial-silder .owl-nav{
+        display: none;
+    }
+    .edu-testimonial-card {
+        background: #FFA502;
+        padding: 32px 32px;
+        padding-bottom: 26px;
+    }
+    .ag-footer-style{
+        padding-bottom: 70px;
+    }
+    .tri-maulti-searchbar .filter-single::before{
+        display: none;
+    }
+    .tri-explore-bar-row {
+        padding: 18px 25px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .ag-newslatter-style .ag-newslatter-wrap .ag-newslatter-form button {
+        gap: 10px;
+        padding: 10px 20px;
+        font-size: 14px;
+        top: 10px;
+        right: 10px;
+        bottom: 10px;
+      
+    }
+    .ag-newslatter-style .ag-newslatter-wrap .ag-newslatter-form input {
+        height: 100px;
+        padding: 20px 22px;
+        padding-right: 130px;
+        font-size: 14px;
+        height: 75px;
+    }
+    .ag-hero-style .ag-hero-content .ag-hero-title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .ag-hero-style .ag-hero-content .ag-hero-btn {
+        margin-top: 30px;
+    }
+    .ag-hero-style .ag-hero-content{
+        padding-bottom: 65px;
+    }
+    .ag-hero-style .ag-hero-figure .review-label {
+        position: absolute;
+        background: #FFFFFF;
+        -webkit-box-shadow: 0px 15px 25px rgb(0 0 0 / 6%);
+        box-shadow: 0px 15px 25px rgb(0 0 0 / 6%);
+        border-radius: 10px;
+        padding: 8px 12px;
+        padding-bottom: 12px;
+    }
+    .ag-hero-style .ag-hero-figure .review-label h5{
+        font-size: 12px !important;
+    }
+
+    .ag-hero-style .ag-hero-figure .review-label .label-header{
+        gap: 5px;
+    }
+
+    .ag-hero-style .ag-rating{
+        gap: 3px;
+    }
+    .ag-hero-style .ag-rating li i{
+        font-size: 10px;
+    }
+    .ag-hero-style .ag-hero-figure .project-label span {
+        font-size: 10px;
+    }
+    .ag-hero-style .ag-hero-figure .project-label {
+        padding: 10px 13px;
+        padding-right: 10px;
+    }
+    .ag-section-title {
+        line-height: 40px;
+        font-size: 30px;
+    }
+    .ag-testimonial-card .testiminial-texts {
+        font-size: 20px;
+        line-height: 48px;
+    }
+    .edu-hero-style .edu-hero-content .edu-hero-title {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 20px;
+    }
+
+    .edu-hero-style .ag-hero-figure .florting-mail-label-two {
+        border-radius: 20px;
+        padding: 20px 6px;
+        padding-bottom: 10px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label-two img{
+        width: 87px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label-two h4 {
+        font-size: 14px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label-two p {
+        font-size: 12px;
+        padding-top: 3px;
+        padding-bottom: 7px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label-two .icon {
+        width: 30px;
+        height: 30px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label .icon {
+        width: 30px;
+        height: 30px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label h6 {
+        font-size: 9px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label p {
+        font-size: 9px;
+    }
+    .edu-hero-style .ag-hero-figure .florting-mail-label {
+        
+        padding: 8px 10px;
+        padding-top: 16px;
+    }
+    .edu-section-title {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .edu-testimonial-card .testi-card-header .reviwer-info .reviewer-avater {
+        min-width: 50px;
+        max-width: 50px;
+    }
+    .edu-testimonial-card .testi-card-header .reviwer-info{
+        gap: 12px;
+    }
+    .edu-testimonial-card .testi-card-header .reviewer-rating {
+        gap: 4px;
+    }
+    .edu-testimonial-card .testi-card-header .reviewer-rating li i{
+        font-size: 12px;
+    }
+    .edu-testimonial-card .testi-card-header .reviwer-info .reviewer-self h4{
+        font-size: 16px;
+    }
+    .edu-testimonial-card .testi-card-header .reviwer-info .reviewer-self span{
+        font-style: 14px;
+    }
+    .edu-testimonial-card {
+        padding: 25px 12px;
+        padding-bottom: 18px;
+    }
+    .process-row-gap{
+        margin-top: 100px;
+    }
+    .ag-working-process .ag-process-features-image .client-group {
+        
+        padding: 16px 15px;
+        bottom: -50px;
+        right: 0px;
+    }
+    .ag-working-process {
+        margin-top: 120px;
+        padding-top: 100px;
+        padding-bottom: 120px;
+    }
+   .edu-success-style, .ag-working-process, .ag-newslatter-style, .ag-service-style, .ag-blog-style, .ag-client-logo-style, .ag-testimonial-style, .edu-department-style, .edu-success-style, .edu-testimonial-style{
+        margin-top: 100px;
+    }
+    .edu-instructor-style, .edu-client-logo-style{
+        margin-top: 85px;
+    }
+    .success-play-btn {
+        width: 90px;
+        height: 90px;
+    }
+    .ag-footer-style{
+        padding-bottom: 50px;
+    }
+   
+    .tri-hero-style .tri-hero-label {
+        top: 50%;
+        transform: translate(0, -50%);
+        z-index: 2;
+        max-width: 100px;
+    }
+    .tri-hero-content .tri-hero-title {
+        font-size: 37px;
+        line-height: 47px;
+    }
+    .tri-footer-subscribe-wrap .subscribe-form-input .tri-submit-btn{
+        padding: 25px 25px;
+    }
+    .tri-footer-subscribe-wrap .subscribe-form-input input{
+        height: 88px;
+    }
+    .tri-footer-subscribe-wrap h2 {
+        font-size: 38px;
+        line-height: 52px;
+        padding-bottom: 40px;
+    }
+    .ag-newslatter-style .ag-newslatter-wrap {
+        padding: 60px 0;
+        padding-top: 52px;
+    }
+}
